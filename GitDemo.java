@@ -4,5 +4,6 @@ public class GitDemo
 	{
 		System.out.println("Hello Git");
 		System.out.println("Hello there Git 2");
+	System.out.println("Feature 2");
 	}
 }
